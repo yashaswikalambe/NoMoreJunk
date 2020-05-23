@@ -1,0 +1,113 @@
+
+
+/* 481px to 767px*/
+@media only screen and (max-width: 767px){
+    body{
+        
+        font-size: 16px;
+        
+    }
+    section{
+        padding: 30px 0;
+        
+    }
+    .row,.hero-text-box{
+        
+        padding: 0,4%;
+    }
+    .col{
+        
+        width: 100%;
+        margin: 0 0 4% 0;
+    }
+    main-nav{
+        display: none;
+    }
+     .long-copy{
+    
+    
+    width: 100%;
+    margin-left: 0%;
+
+}
+    h1{
+        
+        font-size: 180%;
+    }
+    h2{
+        font-size: 150%;
+    }
+    
+    
+    
+}
+/*small phones: from 0to 480px*/
+
+@media only screen and(max-width :480px){
+    
+    section{
+        padding: 25px 0;
+        
+    }
+    
+    
+    
+}
+@media only screen and(max-width:1023px){
+    
+    body{
+        
+        font-size: 18px;
+        
+    }
+    section{
+        padding: 60px 0;
+    }
+    .long-copy{
+    
+    
+    width: 80%;
+    margin-left: 10%;
+
+}
+    .steps{
+        
+        margin-top: 10px;
+    }
+    .icon-small{
+        
+        width: 17px;
+        margin-right: 5px;
+    }
+    .city-features{
+        
+        font-size: 90%;
+    }
+    .plan-box{
+        
+        width: 100%;
+        margin-left: 0%;
+    }
+    .plan-price{
+        
+        font-size: 250%;
+    }
+    
+    
+}
+
+@media only screen and(max-width :1200px){
+    .hero-text-box{
+    
+    padding: 0 2%;
+    width: 1140px;
+   
+}
+    .row{
+        
+        padding: 0 2%;
+    }
+    
+    
+}
+
